@@ -7,8 +7,18 @@ import {
 
 /* STATIC DATA */
 const PROJECTS = [
+
   {
     id: 1,
+    title: "Developer Productivity Suite",
+    tag: "Full Stack",
+    description:
+      "Developer Productivity Suite is an all-in-one platform for managing projects, tasks, notes, files, and team collaboration to boost developer productivity.",
+    image: "./Project 4.jpg",
+    link: "https://developer-dashboard-eta.vercel.app/",
+  },
+  {
+    id: 2,
     title: "Vertex Script System",
     tag: "Localization",
     description:
@@ -16,14 +26,7 @@ const PROJECTS = [
     image: "./Project 1.jpg",
     link: "https://drive.google.com/drive/folders/1eh42IOxBdrcC3oUkQif9B-2GXf6Atxkd?usp=sharing",
   },
-  {
-    id: 2,
-    title: "Vertex Script System",
-    tag: "UI/UX Design",
-    description: "Advanced portfolio website with real-time features.",
-    image: "./Project 2.jpg",
-    link: "https://github.com/iamsaifaii/cryptonian_project-",
-  },
+
   {
     id: 3,
     title: "Multilanguage website",
@@ -31,15 +34,6 @@ const PROJECTS = [
     description: "A showcase of high-end design principles and interactions.",
     image: "./Project 3.jpg",
     link: "https://aceverx.vercel.app/",
-  },
-  {
-    id: 4,
-    title: "Developer Productivity Suite",
-    tag: "Full Stack",
-    description:
-      "Developer Productivity Suite is an all-in-one platform for managing projects, tasks, notes, files, and team collaboration to boost developer productivity.",
-    image: "./Project 4.jpg",
-    link: "https://developer-dashboard-eta.vercel.app/",
   },
 ];
 
