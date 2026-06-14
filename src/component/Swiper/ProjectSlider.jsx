@@ -18,7 +18,7 @@ const PROJECTS = [
   },
   {
     id: 2,
-    title: "Visual Portfolio",
+    title: "Vertex Script System",
     tag: "UI/UX Design",
     description: "Advanced portfolio website with real-time features.",
     image: "./Project 2.jpg",
@@ -31,6 +31,15 @@ const PROJECTS = [
     description: "A showcase of high-end design principles and interactions.",
     image: "./Project 3.jpg",
     link: "https://aceverx.vercel.app/",
+  },
+  {
+    id: 4,
+    title: "Developer Productivity Suite",
+    tag: "Full Stack",
+    description:
+      "Developer Productivity Suite is an all-in-one platform for managing projects, tasks, notes, files, and team collaboration to boost developer productivity.",
+    image: "./Project 4.jpg",
+    link: "https://developer-dashboard-eta.vercel.app/",
   },
 ];
 
