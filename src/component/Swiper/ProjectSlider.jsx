@@ -14,7 +14,7 @@ const PROJECTS = [
     tag: "Full Stack",
     description:
       "Developer Productivity Suite is an all-in-one platform for managing projects, tasks, notes, files, and team collaboration to boost developer productivity.",
-    image: "./Project 4.jpg",
+    image: "./Project1.jpg",
     link: "https://developer-dashboard-eta.vercel.app/",
   },
   {
@@ -23,7 +23,7 @@ const PROJECTS = [
     tag: "Localization",
     description:
       "A smart auto-writing system built using C++ and Arduino for precise and automated text writing functionality.",
-    image: "./Project 1.jpg",
+    image: "./Project2.jpg",
     link: "https://drive.google.com/drive/folders/1eh42IOxBdrcC3oUkQif9B-2GXf6Atxkd?usp=sharing",
   },
 
@@ -32,7 +32,7 @@ const PROJECTS = [
     title: "Multilanguage website",
     tag: "UI/UX Design",
     description: "A showcase of high-end design principles and interactions.",
-    image: "./Project 3.jpg",
+    image: "./Project3.jpg",
     link: "https://aceverx.vercel.app/",
   },
 ];
