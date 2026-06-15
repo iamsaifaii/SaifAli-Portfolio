@@ -33,7 +33,7 @@ const Hero = () => {
               Expertise
             </span>
             <p className="text-white text-lg md:text-xl mt-4 font-light leading-snug">
-              Front-End Developer & Graphic Designer | 3+ year experience
+              AI/Web Developer & UIUX Designer | 3+ year experience
             </p>
           </div>
 
